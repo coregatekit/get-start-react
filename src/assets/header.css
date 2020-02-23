@@ -1,0 +1,13 @@
+header {
+    width: 100%;
+    color: burlywood;
+}
+
+ul {
+    flex-direction: row;
+    display: flex;
+}
+
+li {
+    display: none;
+}
